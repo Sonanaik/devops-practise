@@ -1,0 +1,2 @@
+welcm to linux batch 
+new line added in file
