@@ -2,3 +2,4 @@ this is devops batch
 
 new line added
 fresh batch
+what is .git ignore did in git
